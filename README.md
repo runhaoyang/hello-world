@@ -1,4 +1,4 @@
 # hello-world
-Hello-world repository 
+Hello-world repository
 
-
+Dipping my toes into the world of github
